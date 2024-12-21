@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Willk111=anuraghazra)](https://github.com/Willk111/github-readme-stats)
+[![Wills's GitHub stats](https://github-readme-stats.vercel.app/apiWillk111=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Willk111/Willk111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
