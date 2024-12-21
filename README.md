@@ -4,6 +4,8 @@ My name is Will, I am a cyber security engeneer based in Bristol UK.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Willk111&theme=dark&show_icons=true)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Willk111&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 <!--
 **Willk111/Willk111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
