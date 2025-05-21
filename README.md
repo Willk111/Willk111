@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="https://profile-counter.glitch.me/{WIllk111}/count.svg" alt="Willk111 :: Visitor's Count" />
 
 My name is Will, I am a cyber security engineer based in Bristol UK. Mainly Specialising in SecOps and Infrastructure. I also dabble in paradox game modding.
 
