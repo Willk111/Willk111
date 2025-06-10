@@ -3,7 +3,7 @@
 
 My name is Will, I am a cyber security engineer based in Bristol UK. Mainly Specialising in SecOps and Systems engineering. I have a passion for cyber intelligence and forensics. I also dabble in paradox game modding.
 
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&width=670&bg=%230D1117&badge=%23161B22&border=%236c00ff&titleColor=%234500ff&line1=Terraform%2CTerraform%2C9c00ff%3BShell%2CShell%2C00ff22%3BPython%2CPython%2C6c6bff%3BLinux%2CLinux%2C000000%3BAWS%2CAWS%2Cffd200%3BPowershell%2CPowershell%2C6698ff%3B)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=Shell%2CBash%2C1e9737%3BDocker%2CDocker%2C71a0ff%3BLinux%2CLinux%2Cffffff%3BAWS%2CAWS%2Cff9951%3BOpenshift%2COpenshift%2Cff8080%3BTerraform%2CTerraform%2Ca238ff%3BPowershell%2CPowershell%2C6979ff%3B)
 
 ## Stats
 ![Wills GitHub stats](https://github-readme-stats.vercel.app/api?username=Willk111&show_icons=true&theme=tokyonight)
