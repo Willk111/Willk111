@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://profile-counter.glitch.me/{WIllk111}/count.svg" alt="Willk111 :: Visitor's Count" />
+![](https://komarev.com/ghpvc/?Willk111)
 
 My name is Will, I am a cyber security engineer based in Bristol UK. Mainly Specialising in SecOps and Systems engineering. I have a passion for cyber intelligence and forensics. I also dabble in paradox game modding.
 
