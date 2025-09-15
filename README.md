@@ -10,6 +10,8 @@ My name is Will, I am a cyber security engineer based in Bristol UK. Mainly Spec
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Willk111&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+Currently working on - https://github.com/Willk111/HOI4-The-Dragon-rises
+
 <!--
 **Willk111/Willk111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
