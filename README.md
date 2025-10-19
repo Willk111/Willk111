@@ -5,7 +5,7 @@ My name is Will, I am a Software engineer based in Bristol UK. Mainly Specialisi
 ![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&width=900&line1=Shell%2CBash%2C1e9737%3BDocker%2CDocker%2C71a0ff%3BLinux%2CLinux%2Cffffff%3BAWS%2CAWS%2Cff9951%3BOpenshift%2COpenshift%2Cff8080%3BTerraform%2CTerraform%2Ca238ff%3BPowershell%2CPowershell%2C6979ff%3B)
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Willk111&show_icons=true&theme=radical)](https://github.com/Willk111/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Willk111&show_icons=true&theme=dark)](https://github.com/Willk111/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Willk111&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
