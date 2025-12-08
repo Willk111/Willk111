@@ -8,7 +8,9 @@ My name is Will, I am a Software engineer based in Bristol UK. Mainly Specialisi
 ![My Tech Stack](https://skillicons.dev/icons?i=ansible,aws,bash,debian,docker,github,githubactions,kubernetes,linux,raspberrypi,terraform,ubuntu,)
 
 ## 🔭 Currently Working On
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=willk111&repo=HOI4-The-Dragon-rises&theme=tokyonight)](https://github.com/Willk111/HOI4-The-Dragon-rises)
+[![HOI4-The-Dragon-rises](https://img.shields.io/badge/HOI4-The_Dragon_Rises-1a1b27?style=for-the-badge&logo=github&logoColor=7aa2f7&labelColor=1a1b27)](https://github.com/Willk111/HOI4-The-Dragon-rises)
+![Stars](https://img.shields.io/github/stars/willk111/HOI4-The-Dragon-rises?style=social)
+![Language](https://img.shields.io/github/languages/top/willk111/HOI4-The-Dragon-rises?color=7aa2f7)
 
 <!--
 **Willk111/Willk111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
