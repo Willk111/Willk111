@@ -7,8 +7,9 @@ My name is Will, I am a Software engineer based in Bristol UK. Mainly Specialisi
 ## My Teck Stack
 ![My Tech Stack](https://skillicons.dev/icons?i=ansible,aws,bash,debian,docker,github,githubactions,kubernetes,linux,raspberrypi,terraform,ubuntu,)
 
+
 ## 🔭 Currently Working On
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=willk111&repo=HOI4-The-Dragon-rises&theme=tokyonight)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=willk111&repo=HOI4-The-Dragon-rises&theme=tokyonight)
 
 <!--
 **Willk111/Willk111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
