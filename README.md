@@ -9,7 +9,7 @@ My name is Will, I am a Software engineer based in Bristol UK. Mainly Specialisi
 
 
 ## 🔭 Currently Working On
-[HOI4 - The Dragon Rises](https://github.com/Willk111/HOI4-The-Dragon-rises)
+[![Willk's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=willk111&theme=tokyo-night)](https://github.com/Willk111)
 
 <!--
 **Willk111/Willk111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
