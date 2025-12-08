@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?Willk111)
 My name is Will, I am a Software engineer based in Bristol UK. Mainly Specialising in SecOps and Systems engineering. I have a passion for cyber security and digital forensics. I also dabble in paradox game modding.
 
-##My Teck Stack
+## My Teck Stack
 ![My Tech Stack](https://skillicons.dev/icons?i=ansible,aws,bash,debian,docker,github,githubactions,kubernetes,linux,raspberrypi,terraform,ubuntu,)
 
 
