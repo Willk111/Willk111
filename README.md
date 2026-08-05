@@ -1,21 +1,18 @@
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?Willk111)
 My name is Will, I am a Software engineer based in Bristol UK. Mainly Specializing in DevSecOps and Systems engineering. I have a passion for cyber security and digital forensics. I also dabble in paradox game modding.
-
 <!-- GitHub Stats -->
-![WIllk111's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WIllk111&show_icons=true&theme=tokyonight&hide_border=true)
-
-<!-- Commit Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WIllk111&theme=tokyonight&hide_border=true)
+![WIllk111's GitHub Stats](https://github-stats-extended.vercel.app/api?username=WIllk111&show_icons=true&theme=tokyonight&hide_border=true)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WIllk111&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=WIllk111&layout=compact&theme=tokyonight&hide_border=true)
+
+<!-- Commit Streak -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=WIllk111&theme=tokyonight&hide_border=true)
+
 
 <!-- Contribution Graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WIllk111&theme=tokyo-night&hide_border=true)
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=WIllk111&color=blue&style=flat-square)
 
 ## My Teck Stack
 ![My Tech Stack](https://skillicons.dev/icons?i=ansible,aws,bash,debian,docker,github,githubactions,kubernetes,linux,raspberrypi,terraform,ubuntu,)
