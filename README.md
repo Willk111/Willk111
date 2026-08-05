@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?Willk111)
-My name is Will, I am a Software engineer based in Bristol UK. Mainly Specialising in SecOps and Systems engineering. I have a passion for cyber security and digital forensics. I also dabble in paradox game modding.
+My name is Will, I am a Software engineer based in Bristol UK. Mainly Specializing in DevSecOps and Systems engineering. I have a passion for cyber security and digital forensics. I also dabble in paradox game modding.
 
 ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=willk111&theme=tokyonight)
 
